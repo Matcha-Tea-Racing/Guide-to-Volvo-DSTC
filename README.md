@@ -42,3 +42,23 @@ The sensors are usually located somewhere inside the cabin, often behind or unde
 If theory works out in practice for you, I'd love to hear about it. Feel free to [hmu](https://www.instagram.com/uninsuredmotorist/).
 
 ###### K out :)
+
+###
+**References**
+
+What/How
+- https://www.swedespeed.com/threads/disabling-dstc.290042/
+- https://www.volvocars.com/en-th/support/manuals/s60/2013w46/driver-support/stability-and-traction-control-system/stability-and-traction-control-system-dstc---operation
+- https://www.volvocars.com/en-th/support/manuals/s60/2013w46/driver-support/stability-and-traction-control-system/stability-and-traction-control-system-dstc---symbols-and-messages
+- https://www.swedespeed.com/threads/the-fine-points-of-dstc-system.201546/
+
+OEM
+- http://volvospeed.com/vs_forum/topic/153523-can-dstc-be-disabled/
+- https://www.reddit.com/r/Volvo/comments/hbmfel/how_do_i_turn_off_dstc/
+- https://www.swedespeed.com/threads/disabling-dstc.290042/
+
+Non-OEM
+- https://www.roadandtrack.com/car-culture/buying-maintenance/a27057106/how-to-turn-off-abs-stability-control-traction-any-car/
+- http://www.the370z.com/diy-section-do-yourself/85089-diy-yaw-sensor-rocker-switch.html
+- https://www.youtube.com/watch?app=desktop&v=1tzNpPeNfGw
+- https://www.350z-uk.com/topic/121071-yaw-sensor-bypass-switch/
