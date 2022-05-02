@@ -34,7 +34,7 @@ In theory, just slapping a switch to the dash and wiring it into one of the majo
 
 But at the same time, it seems that they make it disable when one sensor turns off because the system will malfunction horrendously as it can't properly get a feel for what's going on with the car.
 
-Yaw sensors are used to sense how much the car is spinning around its axis, and thats kinda what you want to be doing when there's any amont of snow at the local walmart or abandoned sears. So, by toggling one of them off you'll be making the car think that its going straight, and not cut off your throttle usage so you can slide more freely. Or at best you cut out the DSTC entirely and are on your own. 
+Yaw sensors are used to sense how much the car is spinning around its axis, and thats kinda what you want to be doing when there's any amont of snow at the local walmart or abandoned sears. So, by toggling one of them off you'll be making the car think that its going straight, and it wont cut off your throttle usage. Or at best you cut out the DSTC entirely and are on your own. 
 
 The sensors are usually located somewhere inside the cabin, often behind or under one of the seats. This makes the wiring a lot easier, and hopefully less subject to damage. IMO, you should get a couple of those pilot-style switches with the covers, cus that'd be sick to flick up before you get ready to slide. And maybe wire some to other systems, get some Hella-type lights, and maybe a battery kill switch, just finish off the look. I love switches (take that however you like).
 
