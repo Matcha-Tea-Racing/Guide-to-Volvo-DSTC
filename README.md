@@ -26,7 +26,7 @@ Some never vehicles come equipped with DSTC Sport mode either through a button o
 For older cars, you can disable spin control by going through info options via the left steerign wheel stalk to bring up the "DSTC ON" selection. Then, by holding down the "RESET" button on the stalk it will change it to "DSTC ON: SPIN CONTROL OFF", and a traction contorl light on the dash will light up. Feel free to push the car harder and do some ice/snow drifting (as all Volvos must).
 Don't worry about the light, if it flashes that just means DSTC took over and is working to correct whatever bs you pulled.
 
-###Non-OEM Options for Disabling DSTC
+### Non-OEM Options for Disabling DSTC
 With most cars, cutting connection to a yaw sensor will disable the whole traction control system, and often the ABS too. Z boys have done this thousands of times and there are lots of videos and forum posts of them cutting out sensors and wiring in a "drift switch". 
 
 In theory, just slapping a switch to the dash and wiring it into one  of th emajor wires from a yaw sensor should let you disable DSTC at will. However, this is debatable on any car as idk how much confidence you have in the engineers making it that easy for you to kill a major system designed to help drivers out.
