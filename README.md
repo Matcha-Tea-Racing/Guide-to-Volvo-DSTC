@@ -9,7 +9,7 @@ In general, DSTC (Dynamic Stability and Traction Control) helps keep you under g
 
 ### How does it work?
 There are multiple different subsystems of DSTC:
-- **Traction Control** pulses the brakes to transfer weight to sides of the vehicle depending on where wheels lose traction
+- **Traction Control** pulses the brakes to transfer weight to sides of the vehicle depending on where wheels lose traction.
 - **Active Yaw Control** uses individual wheel pulsing of the brakes to prevent sliding.
 - **Spin Control** reduces engine torque to stop wheelspin.
 - And **Corner Traction Control** controls the spin of the inside wheels while cornering to induce understeer which helps to corner tighter. Performance drivers sometimes shoot for that to improve their pace.
