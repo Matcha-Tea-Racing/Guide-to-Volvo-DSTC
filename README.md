@@ -30,9 +30,9 @@ Don't worry about the light, if it flashes that just means DSTC took over and is
 ### Non-OEM Options for Disabling DSTC
 With most cars, cutting connection to a yaw sensor will disable the whole traction control system, and often the ABS too. Z boys have done this thousands of times and there are lots of videos and forum posts of them cutting out sensors and wiring in a "drift switch". 
 
-In theory, just slapping a switch to the dash and wiring it into one  of th emajor wires from a yaw sensor should let you disable DSTC at will. However, this is debatable on any car as idk how much confidence you have in the engineers making it that easy for you to kill a major system designed to help drivers out.
+In theory, just slapping a switch to the dash and wiring it into one of the major wires from a yaw sensor should let you disable DSTC at will. However, this is debatable on any car as idk how much confidence you have in the engineers making it that easy for you to kill a major system designed to help drivers out.
 
-But at the same time, it seems that engineers make it disable when one sensor turns off because the system will malfunction horrendously as it can't properly get a feel for what's going on with the car.
+But at the same time, it seems that they make it disable when one sensor turns off because the system will malfunction horrendously as it can't properly get a feel for what's going on with the car.
 
 Yaw sensors are used to sense how much the car is spinning around its axis, and thats kinda what you want to be doing when there's any amont of snow at the local walmart or abandoned sears. So, by toggling one of them off you'll be making the car think that its going straight, and not cut off your throttle usage so you can slide more freely. Or at best you cut out the DSTC entirely and are on your own. 
 
