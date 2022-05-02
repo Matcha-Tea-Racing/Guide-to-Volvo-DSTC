@@ -23,7 +23,7 @@ Some never Volvos come equipped with DSTC Sport mode either through a button or 
 - Enhances Corner Traction Control, so more induced understeer, as its intending that you're driving it hard.
 - Also, some say that slapping the DSTC off button 5 times completely disables DSTC.
 
-For older cars, you can disable spin control by going through info options via the left steerign wheel stalk to bring up the "DSTC ON" selection. Then, by holding down the "RESET" button on the stalk it will change it to "DSTC ON: SPIN CONTROL OFF", and a traction contorl light on the dash will light up. Feel free to push the car harder and do some ice/snow drifting (as all Volvos must).
+For older cars, you can disable spin control by going through info options via the left steering wheel stalk to bring up the "DSTC ON" selection. Then, by holding down the "RESET" button on the stalk it will change it to "DSTC ON: SPIN CONTROL OFF", and a traction control light on the dash will light up. Feel free to push the car harder and do some ice/snow drifting (as all Volvos must).
 Don't worry about the light, if it flashes that just means DSTC took over and is working to correct whatever bs you pulled.
 
 
