@@ -4,20 +4,20 @@
 ---
 
 ### What is it?
-In general, DSTC (Dynamic Stability and Traction Control) helps keep you under grip and prevent sliding around, but there is a cabeat that so long as it fel you are confident and in control it will let you slide around a fair bit. This si done through sensors of throttle, steering, braking, and directional sensors. However, the second it loses confidence in you it will take over ans straighten the car out fast.
+In general, DSTC (Dynamic Stability and Traction Control) helps keep you under grip and prevent sliding around, but there is a caveat that so long as it feels you are confident and in control it will let you slide around a fair bit. This is done through sensors of throttle, steering, braking, and directional sensors. However, the second it loses confidence in you it will take over and straighten the car out fast.
 
 
 ### How does it work?
 There are multiple different subsystems of DSTC:
-- **Traction Control** pulses the brakes to transfer weight to sides of the vehilce depending on where wheels lose traction
+- **Traction Control** pulses the brakes to transfer weight to sides of the vehicle depending on where wheels lose traction
 - **Active Yaw Control** uses individual wheel pulsing of the brakes to prevent sliding.
 - **Spin Control** reduces engine torque to stop wheelspin.
-- And **Corner Traction Control** control the spin of the inside wheels while cornering to induce understeer which helps to corner tighter. Performance drivers sometimes shoot for that to improve their pace.
+- And **Corner Traction Control** controls the spin of the inside wheels while cornering to induce understeer which helps to corner tighter. Performance drivers sometimes shoot for that to improve their pace.
 
-It's unclear  whether or not ABS is directly tied to DSTC or vice versa, it would make the most sense since they both use pulsed braking. But Volvos are technically Euro, so who knows how much new shit they created for them.
+It's unclear whether or not ABS is directly tied to DSTC or vice versa, it would make the most sense since they both use pulsed braking. But Volvos are technically Euro, so who knows how much new shit they created for them.
 
 ### OEM Options for Disabling DSTC:
-Some never vehicles come equipped with DSTC Sport mode either through a button or via the "My Car" men. What this does is it:
+Some never Volvos come equipped with DSTC Sport mode either through a button or via the "My Car" menu. What this does is it:
 - Raises Active Yaw Control's initiation threshold, so you can slide more freely.
 - Deactivates Spin Control, so wheelspin is on you.
 - Enhances Corner Traction Control, so more induced understeer, as its intending that you're driving it hard.
@@ -25,6 +25,7 @@ Some never vehicles come equipped with DSTC Sport mode either through a button o
 
 For older cars, you can disable spin control by going through info options via the left steerign wheel stalk to bring up the "DSTC ON" selection. Then, by holding down the "RESET" button on the stalk it will change it to "DSTC ON: SPIN CONTROL OFF", and a traction contorl light on the dash will light up. Feel free to push the car harder and do some ice/snow drifting (as all Volvos must).
 Don't worry about the light, if it flashes that just means DSTC took over and is working to correct whatever bs you pulled.
+
 
 ### Non-OEM Options for Disabling DSTC
 With most cars, cutting connection to a yaw sensor will disable the whole traction control system, and often the ABS too. Z boys have done this thousands of times and there are lots of videos and forum posts of them cutting out sensors and wiring in a "drift switch". 
